@@ -1,0 +1,39 @@
+.col-md-4 .image{
+
+	position: relative;
+	width: 100%;
+}
+
+h1{
+	position: absolute;
+	top: 100px;
+	left: 30%;
+	width: 100%;
+	
+
+}
+
+.col-md-4 input{
+
+	margin: 10px;
+}
+
+.col-md-4 .arjun{
+	position: relative;
+	width: 100%;
+
+}
+
+h2{
+	position: absolute;
+	top: 40px;
+	left: 10%;
+	width: 100;
+	color: blue;
+	text-align: center;
+}
+
+h5{
+	background-color: #87CEFA;
+	text-align: right;
+}

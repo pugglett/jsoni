@@ -1,0 +1,40 @@
+.col-md-4 .image{
+
+	position: relative;
+	width: 100%;
+}
+
+h1{
+	position: absolute;
+	top: 100px;
+	left: 32%;
+	width: 100%;
+	
+
+}
+
+.col-md-6 .bulletpoint{
+	margin-left: 15px;
+	text-align: center;
+	 border-radius: 25px;
+    border: 2px outset aqua;
+    font-weight: bold;
+    background-color: skyblue;
+   
+}
+
+.col-md-6 .bullet{
+	margin-left: 15px;
+	text-align: center;
+	 border-radius: 25px;
+    border: 2px inset aqua;
+    font-weight: bold;
+    background-color: skyblue;
+   
+}
+
+
+h5{
+	background-color: #87CEFA;
+	text-align: right;
+}
